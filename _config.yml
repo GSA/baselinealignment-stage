@@ -8,4 +8,4 @@ description: >-
   should produce the same replicable and reliable test results.
 
 theme: minima
-baseurl: /baselinealignment
+baseurl: /baselinealignment-stage
