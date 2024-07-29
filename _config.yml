@@ -9,3 +9,10 @@ description: >-
 
 theme: minima
 baseurl: /baselinealignment
+dap:
+   agency: GSA
+
+  # Optional
+  # subagency: your-subagency
+
+# Configuration for Google Analytics
